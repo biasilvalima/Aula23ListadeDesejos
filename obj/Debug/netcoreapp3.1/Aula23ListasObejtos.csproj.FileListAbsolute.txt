@@ -1,0 +1,13 @@
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\Aula23ListasObejtos\bin\Debug\netcoreapp3.1\Aula23ListasObejtos.exe
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\Aula23ListasObejtos\bin\Debug\netcoreapp3.1\Aula23ListasObejtos.deps.json
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\Aula23ListasObejtos\bin\Debug\netcoreapp3.1\Aula23ListasObejtos.runtimeconfig.json
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\Aula23ListasObejtos\bin\Debug\netcoreapp3.1\Aula23ListasObejtos.runtimeconfig.dev.json
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\Aula23ListasObejtos\bin\Debug\netcoreapp3.1\Aula23ListasObejtos.dll
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\Aula23ListasObejtos\bin\Debug\netcoreapp3.1\Aula23ListasObejtos.pdb
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\Aula23ListasObejtos\obj\Debug\netcoreapp3.1\Aula23ListasObejtos.csprojAssemblyReference.cache
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\Aula23ListasObejtos\obj\Debug\netcoreapp3.1\Aula23ListasObejtos.csproj.CoreCompileInputs.cache
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\Aula23ListasObejtos\obj\Debug\netcoreapp3.1\Aula23ListasObejtos.AssemblyInfoInputs.cache
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\Aula23ListasObejtos\obj\Debug\netcoreapp3.1\Aula23ListasObejtos.AssemblyInfo.cs
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\Aula23ListasObejtos\obj\Debug\netcoreapp3.1\Aula23ListasObejtos.dll
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\Aula23ListasObejtos\obj\Debug\netcoreapp3.1\Aula23ListasObejtos.pdb
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\Aula23ListasObejtos\obj\Debug\netcoreapp3.1\Aula23ListasObejtos.genruntimeconfig.cache
